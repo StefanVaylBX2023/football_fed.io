@@ -309,7 +309,7 @@ footer{
     text-align: center;
     width: 33%;
     color: #fff;
-    font-family: 'roboto_bold';
+    font-family: 'roboto_regular';
     font-size: 14px;
     height: 70px;
     margin: 10px;
@@ -708,9 +708,9 @@ transition: all 500ms ease;
         font-size: 40px;
         margin-bottom: 30px;
     }
-    h4{
+    /* h4{
         font-size: 30px;
-    }
+    } */
     h5{
         font-size: 30px;
     }
@@ -909,7 +909,7 @@ transition: all 500ms ease;
     }
     .footer_text{
         font-size: 20px;
-        font-family: 'NotoSans_footer';
+        font-family: 'roboto-regular';
     }
     .contacts_foto{
         align-items: center;
